@@ -82,11 +82,11 @@ API Key Authentication
 #  References
 
 Base Playbook
-* [BasePlaybook-F5 Big IP](/Playbooks/BasePlaybook-F5BigIP/readme.md)
+* [BasePlaybook-F5 Big IP](./Playbooks/BasePlaybook-F5BigIP/readme.md)
 
 Playbooks
-* [BlockIP-F5 Big IP](/Playbooks/BlockIP-F5BigIP/readme.md)
-* [BlockURL-F5 Big IP](/Playbooks/BlockURL-F5BigIP/readme.md)
-* [EnrichmentIP-F5 Big IP](/Playbooks/EnrichmentIP-F5BigIP/readme.md)
+* [BlockIP-F5 Big IP](./Playbooks/BlockIP-F5BigIP/readme.md)
+* [BlockURL-F5 Big IP](./Playbooks/BlockURL-F5BigIP/readme.md)
+* [EnrichmentIP-F5 Big IP](./Playbooks/EnrichmentIP-F5BigIP/readme.md)
 
 
